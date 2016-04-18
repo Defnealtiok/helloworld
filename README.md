@@ -1,10 +1,7 @@
 # helloworld
-Why can't we say hi world?
 
-So I have to write about myself. Thus, I'm writing about myself. Ta daaa.
+First commit message: 
 
-This was my first commit message
+Hi world.
 
-Merci,
 
-Bonjour
