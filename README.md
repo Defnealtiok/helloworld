@@ -1,6 +1,6 @@
 # helloworld
 
-First commit message: 
+First message: 
 
 Hi world.
 
